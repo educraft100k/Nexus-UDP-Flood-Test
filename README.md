@@ -1,7 +1,7 @@
 <div align="center">
 
 # Nexus Network 🪷         ( Udp Test )
-### 🔵 Herramienta educativa UDP para pruebas de red local (MCPE Status + Flood Lab)
+### 🔵 Tool con motivo de pruebas , solo uso responsable (MCPE Status + Flood Lab)
 
 ![Python](https://img.shields.io/badge/Python-3.x-1E90FF?style=for-the-badge&logo=python&logoColor=white)
 ![UDP](https://img.shields.io/badge/Protocol-UDP-4169E1?style=for-the-badge)
