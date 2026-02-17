@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nexus Network 🪷
+# Nexus Network 🌌
 ( Udp Test )
 ### 🔵 Tool con motivo de pruebas , solo uso responsable (MCPE Status + Flood Lab)
 
@@ -60,7 +60,7 @@ pkg install git python -y
 git clone https://github.com/educraft100k/NexusUDP.git
 
 # Entra al directorio 
-cd Nexus-UDP-Flood-Test
+cd NexusUDP
 
 # Dale permisos al script (por si acaso)
 chmod +x NexusUDP.py
