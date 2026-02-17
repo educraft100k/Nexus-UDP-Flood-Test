@@ -6,16 +6,14 @@
 ![Python](https://img.shields.io/badge/Python-3.x-1E90FF?style=for-the-badge&logo=python&logoColor=white)
 ![UDP](https://img.shields.io/badge/Protocol-UDP-4169E1?style=for-the-badge)
 ![MCPE](https://img.shields.io/badge/Target-Minecraft_PE-00008B?style=for-the-badge)
-![Nexus](https://img.shields.io/badge/Nexus-2026-0000CD?style=for-the-badge)
-![Vibe](https://img.shields.io/badge/Vibe-Galaxy_Blue-0000FF?style=for-the-badge)
+![NexusUDP](https://img.shields.io/badge/Nexus-2026-0000CD?style=for-the-badge)
+![Pmmp](https://img.shields.io/badge/Vibe-Galaxy_Blue-0000FF?style=for-the-badge)
 
 </div>
 
-<grok:render card_id="f36d63,3a54cf" card_type="image_card_group"></grok:render>
-
 ---
 
-## ⚠️ ADVERTENCIA COSMICA 🔵🌌
+## ⚠️ ADVERTENCIA DE USO 🔵🌌
 
 **SOLO PARA LABORATORIO Y REDES PROPIAS**  
 Usa esto en:
