@@ -40,29 +40,31 @@ Perfecto para curiosos de ciberseguridad ética, redes y MCPE modding.
 
 ---
 
-## 🚀 Instalación en Termux (Android) – Modo Galaxia 🔵📱
+## 🚀 ¿Cómo Istalar Está Herramienta?
 
-Abre **Termux** (descárgalo de F-Droid o GitHub oficial, NO Play Store viejo)
+### En Termux (Android) – Recomendado para móvil
+
+1. Descarga **Termux** desde **F-Droid** o GitHub oficial (NO uses la versión vieja de Play Store).
+
+Abre Termux y ejecuta paso a paso:
 
 ```bash
-# 1. Actualiza el universo Termux
+# Actualiza el sistema
 pkg update && pkg upgrade -y
 
-# 2. Instala lo básico (git + python)
+# Instala git y python
 pkg install git python -y
 
-# 3. Clona el repo (cambia la URL por la tuya cuando lo subas)
-git clone https://github.com/tu-usuario/udp-lab-tool.git
-# o si ya lo tienes descargado por zip, usa:
-# termux-setup-storage   → luego mueve el zip y unzip
+# Clona Nuestro Repositorio 💻
+git clone https://github.com/educraft100k/Nexus-UDP-Flood-Test.git
 
-# 4. Entra al directorio galáctico
-cd udp-lab-tool
+# Entra al directorio 
+cd Nexus-UDP-Flood-Test
 
-# 5. Dale permisos de ejecución (por si acaso)
-chmod +x main.py
+# Dale permisos al script (por si acaso)
+chmod +x NexusUDP.py
 
-# 6. Lánzalo al espacio
-python main.py
-# o
-python3 main.py
+# Entra Al Modo de Ataque
+python NexusUDP.py
+# Entra Al Modo de Ataque en Python 3 :
+python3 NexusUDP.py
