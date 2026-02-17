@@ -68,3 +68,5 @@ chmod +x NexusUDP.py
 python NexusUDP.py
 # Entra Al Modo de Ataque en Python 3 :
 python3 NexusUDP.py
+```
+Readme hecho con IA porque me fio flojera hacer uno xd
