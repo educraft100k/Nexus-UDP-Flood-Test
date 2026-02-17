@@ -15,19 +15,19 @@
 
 ## ⚠️ ADVERTENCIA DE USO 🔵🌌
 
-**SOLO PARA LABORATORIO Y REDES PROPIAS**  
+**SOLO PARA PRUEBAS DE PROTECCIÓN O ETC**  
 Usa esto en:
 
-- Tu localhost  
+- Tu Servidor Local
 - Servidor MCPE que **tú controlas**  
 - Red privada con permiso  
 
 Cualquier flood a servidores ajenos, amigos o públicos es **ilegal** y puede traerte problemas serios.  
-**No soy responsable.** Tú eliges el camino de la galaxia oscura o la luz educativa. 🌑✨
+**No soy responsable.** Porfavor Uso Responsable 🐱
 
 ---
 
-## 📜 ¿Qué onda con esta herramienta? 🔵
+## 📜 ¿Quieres mas Información ?🔵
 
 Script en Python para:
 
