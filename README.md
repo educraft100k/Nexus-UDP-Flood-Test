@@ -56,7 +56,7 @@ pkg update && pkg upgrade -y
 pkg install git python -y
 
 # Clona Nuestro Repositorio 💻
-git clone https://github.com/educraft100k/Nexus-UDP-Flood-Test.git
+git clone https://github.com/educraft100k/NexusUDP.git
 
 # Entra al directorio 
 cd Nexus-UDP-Flood-Test
